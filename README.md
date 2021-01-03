@@ -3,4 +3,4 @@
 
 |AWS|Playlist|
 |-|-|
-|[Just Me and Opensource]|[AWS Playlist]|
+|[Learning]|[AWS Playlist]|
